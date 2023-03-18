@@ -5,3 +5,9 @@ Samples of generated avatar faces using custom stable diffusion model
 ![avatar15](https://user-images.githubusercontent.com/97524411/226085339-2c3859a8-9d17-4cc8-bd4a-0ea40c7d93bc.png)
 ![avatar12](https://user-images.githubusercontent.com/97524411/226085692-9753c8f2-0f92-4ac0-8d3e-6850e5046a77.png)
 ![downloady](https://user-images.githubusercontent.com/97524411/226085760-1ed37cbe-9e9d-4201-94c9-5fe4fe426733.png)
+Objective:
+The objective of this assignment is to develop a custom stable diffusion model for generating
+avatar faces using generative AI. The assignment aims to evaluate the student's ability to apply
+generative AI techniques, use Python and Google Collab, deploy the model to Hugging Face,
+and test the output using Postman. The assignment also aims to evaluate the student's coding
+guidelines, output quality, and code quality.
