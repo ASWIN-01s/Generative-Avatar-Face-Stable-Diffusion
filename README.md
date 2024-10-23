@@ -1,5 +1,5 @@
-# generative-avatar-face
-ai avatar face 
+# Generative-Avatar-Face-Stable-Diffusion
+Ai avatar face 
 Samples of generated avatar faces using custom stable diffusion model
 ![avatar10](https://user-images.githubusercontent.com/97524411/226085584-499343f6-bd9b-4ba9-8788-cbd729da9b2b.png)
 ![avatar24](https://user-images.githubusercontent.com/97524411/226178841-15585eef-28b4-4d7c-86e9-69aa7d978963.png)
